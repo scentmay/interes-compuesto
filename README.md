@@ -4,4 +4,4 @@ El formulario utiliza la tecnología de formik y yup para las validaciones.
 
 Esta es una muestra:
 
-![Screenshot](calculadora interes-compuesto.jpg)
+![Screenshot](interes-compuesto.jpg)
